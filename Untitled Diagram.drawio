@@ -424,7 +424,7 @@
             <mxPoint x="330" y="-100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="krj-lY4ffTOBblffUTi3-17" value="Vatrix-Receiver (FastAPI)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#009900);" vertex="1" parent="krj-lY4ffTOBblffUTi3-3">
+        <mxCell id="krj-lY4ffTOBblffUTi3-17" value="Vatrix-Gateway (FastAPI)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#009900);" vertex="1" parent="krj-lY4ffTOBblffUTi3-3">
           <mxGeometry x="80" y="110" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7q1kPDiTuUGEWjKcqydX-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.017;exitY=0.3;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#0050EF);strokeWidth=4;exitPerimeter=0;" edge="1" parent="krj-lY4ffTOBblffUTi3-3" source="krj-lY4ffTOBblffUTi3-15">
